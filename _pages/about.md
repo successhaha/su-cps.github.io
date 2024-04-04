@@ -27,6 +27,22 @@ redirect_from:
 
 # 📝 Publications 
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">AAAI 2024</div>
+  <img src='images/fig/AAAI-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Feature Distribution Matching by Optimal Transport for Effective and Robust Coreset Selection**
+
+Weiwei Xiao, Yongyong Chen, Qiben Shan, Yaowei Wang, **<u>Jingyong Su</u>**
+
+[[pdf]](pdf/https://ojs.aaai.org/index.php/AAAI/article/view/28771) [[Code]](https://github.com/successhaha/FDMat)
+</div>
+</div>
+
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
